@@ -1,0 +1,60 @@
+# Arquivos compilados do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+build/
+out/
+target/
+dist/
+
+# Arquivos do Eclipse
+.metadata/
+
+# Arquivos do NetBeans
+nbproject/
+private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*~.nib
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de usuário
+*.suo
+*.user
+*.users
+
+# Backup files
+*.backup
